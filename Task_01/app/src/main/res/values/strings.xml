@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="Enter_name">Enter Name</string>
+    <string name="Enter_mobile">Enter Mobile Number</string>
+    <string name="Enter_dateandtime">Enter Date and Time</string>
+    <string name="Family">Family</string>
+    <string name="Guest">Guest</string>
+    <string name="Rider_name">Rider Name</string>
+    <string name="Mobile_number">Mobile Number</string>
+    <string name="DateAndTime">Date &amp; Time</string>
+    <string name="Preferances">Preferances</string>
+    <string name="Calls">Calls</string>
+    <string name="Music">Music</string>
+    <string name="Invite">Invite</string>
+    <string name="Rider_details">Rider Details</string>
+    <string name="Msg">Please confirm the details before processing</string>
+    <string name="Person_type">Person Type</string>
+    <string name="Back">Back</string>
+    <string name="Calls_switch">Calls_Switch</string>
+    <string name="Music_switch">Music_Switch</string>
+</resources>
